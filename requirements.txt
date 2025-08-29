@@ -1,0 +1,9 @@
+### dependency
+streamlit
+requests
+urllib3
+pandas
+numpy
+scikit-learn
+nltk
+
